@@ -1,3 +1,14 @@
+
+.navbar{
+    height: 70px;
+}
+
 .navbar-nav{
     width: 50%;
 }
+
+.nav-link{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+

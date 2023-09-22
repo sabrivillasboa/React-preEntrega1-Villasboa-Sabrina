@@ -1,0 +1,16 @@
+.container-cart{
+    display: flex;
+    text-align: center;
+    height: 30px;
+    width: auto;
+}
+
+.img-cart{
+    height: 100%;
+}
+
+.span-cart{
+    height: 100%;
+    width: 1.5rem;
+    font-size: 1.3rem;
+}
